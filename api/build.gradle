@@ -1,0 +1,8 @@
+plugins {
+    id 'java'
+}
+group = 'me.splitque'
+
+repositories {
+    mavenCentral()
+}

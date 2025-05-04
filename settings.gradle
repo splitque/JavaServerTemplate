@@ -1,0 +1,4 @@
+rootProject.name = 'JavaServerTemplate'
+includeBuild 'api'
+include 'server'
+
